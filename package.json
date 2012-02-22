@@ -2,7 +2,7 @@
   "author": "Aaron Bieber <aaron@qbit.io> (http://qbit.io)",
   "name": "coderwall",
   "description": "coderwall.com module for displaying coderwall badges",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://qbit.github.com/node-coderwall",
   "repository": {
     "type": "git",

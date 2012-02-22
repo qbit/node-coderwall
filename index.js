@@ -1,2 +1,1 @@
-var coderwall = require( 'lib/coderwall.js' );
-module.exports = coderwall;
+module.exports = require( './lib/coderwall' );
